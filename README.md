@@ -3,12 +3,12 @@ A collection of disclosed bug bounty reports.
 
 ## Index
 
-- [Web Applications]()
-- [Mobile Applications]()
-  - [iOS]()
-  - [Android]()
-- [Binary Exploitation]()
-- [Hardware & IoT]()
+- [Web Applications](Web-Application-Reports)
+- [Mobile Applications](Mobile-Applications)
+  - [iOS](iOS-Reports)
+  - [Android](Android-Reports)
+- [Binary Exploitation](Binary-Exploitation-Reports)
+- [Hardware & IoT](Hardware-&-IoT-Reports)
 
 
 ## Web Application Reports
@@ -20,3 +20,5 @@ A collection of disclosed bug bounty reports.
 ### Android Reports
 
 ## Binary Exploitation Reports
+
+## Hardware & IoT Reports
