@@ -1,6 +1,6 @@
 # Awe-inspiring Reports
 
-A collection of disclosed bug bounty reports.
+A collection of disclosed awesome bug bounty reports.
 
 ## Index
 
