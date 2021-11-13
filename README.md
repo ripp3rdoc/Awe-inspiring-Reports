@@ -3,7 +3,7 @@ A collection of disclosed bug bounty reports.
 
 ## Index
 
-- [Web Applications](Web-Application-Reports)
+- [Web Applications](#Web-Application-Reports)
 - [Mobile Applications](Mobile-Applications)
   - [iOS](iOS-Reports)
   - [Android](Android-Reports)
