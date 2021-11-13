@@ -1,4 +1,5 @@
-# Awesome-Reports
+# Awe inspiring Reports
+
 A collection of disclosed bug bounty reports.
 
 ## Index
